@@ -87,7 +87,6 @@
       ],
       "settings": {
         "foreground": "#A3BE8C",
-        "fontStyle": "bold"
       }
     },
     {
@@ -110,7 +109,6 @@
       "scope": ["entity.name.type.enum", "entity.name.enum"],
       "settings": {
         "foreground": "#D6999F",
-        "fontStyle": "bold"
       }
     }
   ],
@@ -123,22 +121,18 @@
     },
     "function": {
       "foreground": "#8FAEC9",
-      "fontStyle": "bold"
     },
     "method": {
       "foreground": "#8FAEC9",
-      "fontStyle": "bold"
     },
     "property": {
       "foreground": "#D8DEE9"
     },
     "class": {
       "foreground": "#A3BE8C",
-      "fontStyle": "bold"
     },
     "enum": {
       "foreground": "#D6999F",
-      "fontStyle": "bold"
     },
     "interface": {
       "foreground": "#B0C4A7"

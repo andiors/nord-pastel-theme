@@ -10,7 +10,7 @@
 - Works great with lots of programming languages
 
 ## Preview
-![Theme Preview](images/nord-pastel-theme-preview.png)
+![Theme Preview](https://raw.githubusercontent.com/andiors/nord-pastel-theme/master/images/nord-pastel-theme-preview.png)
 
 ## How to get it
 
