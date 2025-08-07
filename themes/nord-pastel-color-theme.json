@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Andiors Nord Pastel",
+  "name": "Nord Pastel",
   "type": "dark",
   "colors": {
     "activityBar.background": "#3B4252",
@@ -48,7 +48,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#D6999F"  // pastel red
+        "foreground": "#D6999F"
       }
     },
     {
@@ -58,25 +58,25 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#8FAEC9"  // pastel blue
+        "foreground": "#8FAEC9"  // azzurro pastello per funzioni
       }
     },
     {
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#C1BFA7"  // pastel beige
+        "foreground": "#C1BFA7"
       }
     },
     {
       "scope": ["variable", "entity.name.variable"],
       "settings": {
-        "foreground": "#8FBFB2"  // pastel teal green
+        "foreground": "#8FAEC9" 
       }
     },
     {
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#D99694"  // pastel warm red
+        "foreground": "#D99694"
       }
     },
     {
@@ -86,7 +86,7 @@
         "entity.name.class"
       ],
       "settings": {
-        "foreground": "#B0C4A7", // pastel green
+        "foreground": "#A3BE8C",
         "fontStyle": "bold"
       }
     },
@@ -97,13 +97,13 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#B0C4A7"  // pastel green
+        "foreground": "#B0C4A7"
       }
     },
     {
       "scope": ["support.function", "support.constant"],
       "settings": {
-        "foreground": "#8FAEC9"  // pastel blue
+        "foreground": "#8FAEC9"
       }
     },
     {
@@ -116,7 +116,7 @@
   ],
   "semanticTokenColors": {
     "variable": {
-      "foreground": "#8FBFB2"
+      "foreground": "#8FAEC9"
     },
     "parameter": {
       "foreground": "#C1BFA7"
@@ -133,7 +133,7 @@
       "foreground": "#D8DEE9"
     },
     "class": {
-      "foreground": "#B0C4A7",
+      "foreground": "#A3BE8C",
       "fontStyle": "bold"
     },
     "enum": {

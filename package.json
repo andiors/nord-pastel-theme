@@ -2,9 +2,13 @@
   "name": "nord-pastel",
   "displayName": "Nord Pastel",
   "description": "A refined Nord-based theme with pastel tones, soft contrasts, and improved syntax highlighting.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "andrea",
   "icon": "images/nord-pastel-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andiors/nord-pastel-theme"
+  },
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -21,5 +25,6 @@
     ]
   }
 }
+
 
 
